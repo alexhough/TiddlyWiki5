@@ -4,9 +4,9 @@ tags: About
 title: History of TiddlyWiki
 type: text/vnd.tiddlywiki
 
-//These are personal reflections on the history and development of TiddlyWiki from JeremyRuston//
+<<.preamble "These are personal reflections on the history and development of TiddlyWiki from JeremyRuston written on 20th September 2014">>
 
-! Origins of TiddlyWiki
+! Origins of ~TiddlyWiki
 
 Back in 1997 a colleague introduced me to [[Ward Cunningham's original wiki|http://c2.com/cgi/wiki]]. I was impressed that something so powerful could fit into just 700 lines of Perl, and fascinated by the radical reimagining of security and permissions. Like many other developers, I took every opportunity I could to try out various wikis, and to explore their use at work.
 
@@ -32,9 +32,9 @@ Within a few months I saw an experimental Firefox extension that enabled TiddlyW
 
 I adapted the Firefox code into the core of TiddlyWiki, and soon added a similar ability for Internet Explorer (making use of an old ActiveX control that Microsoft distributed with Internet Explorer).
 
-! Growth of TiddlyWiki
+! Growth of ~TiddlyWiki
 
-A major milestone in the growth of TiddlyWiki was the creation of "GTDTiddlyWiki" by Nathan Bowers. He took the vanilla TiddlyWiki product and adapted it for the specific application of keeping track of tasks using the popular Getting Things Done methodology. GTDTiddlyWiki was an immediate hit, being enthusiastically greeted on websites like LifeHacker.
+A major milestone in the growth of TiddlyWiki was the creation of "GTDTiddlyWiki" by Nathan Bowers. He took the vanilla TiddlyWiki product and adapted it for the specific application of keeping track of tasks using the popular Getting Things Done methodology. GTDTiddlyWiki was an immediate hit, being enthusiastically greeted on websites like [[LifeHacker|http://lifehacker.com/102953/getting-things-done-tiddlywiki]].
 
 Over the next couple of years TiddlyWiki continued to grow in popularity, and gained new features and capabilities. Within a year I was able to support myself by performing bespoke development work on TiddlyWiki, notably working with wiki pioneer SocialText on the ability to synchronise changes with an online server
 
@@ -63,6 +63,3 @@ I worked on new release of TiddlyWiki from November 2011. As a programmer, worki
 ! The Future
 
 Now that TiddlyWiki5 has finally left "beta" status behind, my hope is that it will have a long life. Because it only uses standard features of HTML5 and Node.js, there is no reason why it cannot be fully operational for many years to come. My goal is for it to last for at least 25 years.
-
-//Jeremy Ruston, 20th September 2014//
-
