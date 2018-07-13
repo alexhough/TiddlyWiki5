@@ -1,0 +1,22 @@
+created: 20180713184051097
+modified: 20180713193440827
+tags: 
+title: Links
+
+[[Hypertext]] has links:
+
+<<<
+a hyperlink, or simply a link, is a reference to data that the reader can directly follow either by clicking, tapping, or hovering
+<<<https://en.wikipedia.org/wiki/Hyperlink
+
+TiddlyWiki's WikiText has the capability to create links. See [[Linking in WikiText]] for more.
+
+Links can also be created with [[widgets|Widgets]], more specifically the LinkWidget.
+
+[[Lists]] of links can be created with various [[macros|Macros]]:
+
+*[[list-links Macro]]
+*[[list-links-draggable Macro]]
+
+BackLinks are the links which link to a tiddler
+
